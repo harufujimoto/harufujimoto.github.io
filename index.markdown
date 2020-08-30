@@ -6,4 +6,5 @@ layout: home
 ---
 
 [ダイクストラ法](https://harufujimoto.github.io/graph/dijkstra.html)
+
 [UnionFind](https://harufujimoto.github.io/datastructure/unionfind.html)

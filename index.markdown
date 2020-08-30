@@ -5,10 +5,10 @@
 layout: home
 ---
   - **数学**
-    - [Modint.cpp](https://github.com/harufujimoto.github.io/modint.md)
-    - [二項係数(Mod)](https://github.com/harufujimoto.github.io/modcomb.md)
-    - [二項係数(Pascal)](https://github.com/harufujimoto.github.io/pascals.md)
-    - [エラトステネスの篩/素因数分解](https://github.com/harufujimoto.github.io/sieve.md)
+    - [Modint.cpp](https://harufujimoto.github.io/modint.html)
+    - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)
+    - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)
+    - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
     - オイラーのトーシェント関数(Euler's totient function)
     - GCD,LCA,拡張ユークリッド
     - 行列 

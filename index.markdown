@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[ダイクストラ法](https://harufujimoto.github.io/graph/dijkstra.html)

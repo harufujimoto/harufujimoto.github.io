@@ -4,17 +4,53 @@
 
 layout: home
 ---
-
+  - **数学**
+    - Modint.cpp
+    - 二項係数(Mod)
+    - 二項係数(Pascal)
+    - エラトステネスの篩/素因数分解
+    - オイラーのトーシェント関数(Euler's totient function)
+    - GCD,LCA,拡張ユークリッド
+    - 行列 
+    - Transformation Series.
+      - 高速フーリエ変換
+      - 高速ゼータ変換
+      - 高速アダマール変換
   - **グラフ**
-    - [ダイクストラ法](https://harufujimoto.github.io/graph/dijkstra.html) 
-    - ベルマンフォード法（マイナス閉路検出）
-    - ワーシャル・フロイド法
-    - LCA(最近共通祖先)
-
+    - テンプレート
+    - 一般グラフに対するアルゴリズム
+      - [ダイクストラ法(Dijkstra's algotithm)](https://harufujimoto.github.io/graph/dijkstra.html) 
+      - ベルマンフォード法（Bellman-Ford algorithm）
+      - ワーシャル・フロイド法(Warshall-Floyd algorithm)
+      - 01-BFS
+      - D'Espo-Page algorithm(CP)
+      - 最小全域木(MST)
+      - 強連結成分分解
+      - 2-SAT
+      - LCA(最近共通祖先)
+    - 木(tree)
+    - フロー(Flow)
+      - 最大流
+      - 最小カット
+      - 二部マッチング
+      - 一般マッチング
+      - 最小費用流
   - **データ構造**
+    - Segment Tree
+      - セグメント木(Range Min Query)
+      - セグメント木(Range Sum Query)
+      - 遅延セグメント木(Sum Query)
+      - 遅延セグメント木(Min Query)
+    - Binary Indexed Tree
     - [UnionFind](https://harufujimoto.github.io/datastructure/unionfind.html)
-    - セグメント木(Range Min Query)
-    - セグメント木(Range Sum Query)
-    - 遅延セグメント木(Sum Query)
-    - 遅延セグメント木(Min Query)
-
+    - 平方分割
+    - Treap
+    - Sqrt Tree
+    - Deleting from a data structure in O(T(n)logN) (CP-algo)
+  - **文字列**
+    - Z-algorithm
+    - Rolling Hash
+    - Suffix Array
+    - Aho-Corasick algorithm (CPalgo)
+    - Manacher's Algorithm
+    - kmp algorithm

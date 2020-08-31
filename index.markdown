@@ -10,38 +10,38 @@ layout: home
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)
     - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)
     - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
-    - オイラーのトーシェント関数(Euler's totient function)
+    - [オイラーのトーシェント関数(Euler's totient function)](https://harufujimoto.github.io/totient.html))
     - [GCD,LCA,拡張ユークリッド](https://harufujimoto.github.io/gcd.html)
     - 行列 
     - Transformation Series.
-      - 高速フーリエ変換
-      - 高速ゼータ変換
-      - 高速アダマール変換
+      - [高速フーリエ変換](https://harufujimoto.github.io/fft.html)
+      - [高速ゼータ変換]((https://harufujimoto.github.io/fzt.html)
+      - [高速アダマール変換](https://harufujimoto.github.io/wht.html)
   - **グラフ**
     - テンプレート
     - 一般グラフに対するアルゴリズム
       - [ダイクストラ法(Dijkstra's algotithm)](https://harufujimoto.github.io/graph/dijkstra.html) 
-      - ベルマンフォード法（Bellman-Ford algorithm）
-      - ワーシャル・フロイド法(Warshall-Floyd algorithm)
-      - 01-BFS
-      - D'Espo-Page algorithm(CP)
-      - 最小全域木(MST)
-      - 強連結成分分解
-      - 2-SAT
-      - LCA(最近共通祖先)
+      - [ベルマンフォード法（Bellman-Ford algorithm）](https://harufujimoto.github.io/bellman_ford.html)
+      - [ワーシャル・フロイド法(Warshall-Floyd algorithm)](https://harufujimoto.github.io/warshall_floyd.html)
+      - [01-BFS](https://harufujimoto.github.io/01bfs.html)
+      - [D'Espo-Page algorithm(CP)](https://harufujimoto.github.io/page_algo.html)
+      - [最小全域木(MST)](https://harufujimoto.github.io/mst.html)
+      - [強連結成分分解(SCC)](https://harufujimoto.github.io/scc.html)
+      - [2-SAT](https://harufujimoto.github.io/2sat.html)
+      - [LCA(最近共通祖先)](https://harufujimoto.github.io/lca.html)
     - 木(tree)
     - フロー(Flow)
-      - 最大流
-      - 最小カット
-      - 二部マッチング
-      - 一般マッチング
-      - 最小費用流
+      - [最大流](https://harufujimoto.github.io/maxflow.html)
+      - [最小カット](https://harufujimoto.github.io/mincut.html)
+      - [二部マッチング](https://harufujimoto.github.io/bipart_matching.html)
+      - [一般マッチング](https://harufujimoto.github.io/general_matching.html)
+      - [最小費用流](https://harufujimoto.github.io/mincostflow.html)
   - **データ構造**
     - Segment Tree
-      - セグメント木(Range Min Query)
-      - セグメント木(Range Sum Query)
-      - 遅延セグメント木(Sum Query)
-      - 遅延セグメント木(Min Query)
+      - [セグメント木(Range Min Query)](https://harufujimoto.github.io/rmq.html)
+      - [セグメント木(Range Sum Query)](https://harufujimoto.github.io/rsq.html)
+      - [遅延セグメント木(Sum Query)](https://harufujimoto.github.io/lazy_rsq.html)
+      - [遅延セグメント木(Min Query)](https://harufujimoto.github.io/lazy_rmq.html)
     - Binary Indexed Tree
     - [UnionFind](https://harufujimoto.github.io/datastructure/unionfind.html)
     - 平方分割

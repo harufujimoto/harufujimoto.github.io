@@ -15,7 +15,7 @@ layout: home
     - 行列 
     - Transformation Series.
       - [高速フーリエ変換](https://harufujimoto.github.io/fft.html)
-      - [高速ゼータ変換]((https://harufujimoto.github.io/fzt.html)
+      - [高速ゼータ変換](https://harufujimoto.github.io/fzt.html)
       - [高速アダマール変換](https://harufujimoto.github.io/wht.html)
   - **グラフ**
     - テンプレート
@@ -38,6 +38,7 @@ layout: home
       - [最小費用流](https://harufujimoto.github.io/mincostflow.html)
   - **データ構造**
     - Segment Tree
+      - [一般化セグメント木](https://harufujimoto.github.io/general_segtree.html)
       - [セグメント木(Range Min Query)](https://harufujimoto.github.io/rmq.html)
       - [セグメント木(Range Sum Query)](https://harufujimoto.github.io/rsq.html)
       - [遅延セグメント木(Sum Query)](https://harufujimoto.github.io/lazy_rsq.html)

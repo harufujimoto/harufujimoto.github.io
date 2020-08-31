@@ -4,6 +4,7 @@
 
 layout: home
 ---
+  - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - **数学**
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)

@@ -10,7 +10,7 @@ layout: home
     - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)
     - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
     - オイラーのトーシェント関数(Euler's totient function)
-    - GCD,LCA,拡張ユークリッド
+    - [GCD,LCA,拡張ユークリッド](https://harufujimoto.github.io/gcd.html)
     - 行列 
     - Transformation Series.
       - 高速フーリエ変換

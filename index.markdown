@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /library_for_cp/
 ---
   - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - **数学**

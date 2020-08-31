@@ -4,6 +4,8 @@ title: "UnionFind"
 categories: datastructure
 ---
 
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/_posts/2020-08-30-unionfind.md)
+
 UnionFind木。
 
 MAX_Nの値は適当に変える。2e6で'Runtime Error'を起こしていた気がする。

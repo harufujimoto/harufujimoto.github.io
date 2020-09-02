@@ -6,7 +6,7 @@ layout: home
 ---
 
   [edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/index.markdown)
-
+  - [C++ template](https://harufujimoto.github.io/cpptemplate.html)
   - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - [細かい関数などのメモ](https://harufujimoto.github.io/other_funcs.html)
   - **数学**

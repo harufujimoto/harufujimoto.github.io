@@ -3,6 +3,8 @@ layout: post
 title: "(1 << k)個上の親を求める（ダブリング）"
 ---
 
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/graph/2020-09-02-doubling_parent.md)
+
 LCAを求めるときに使うやつ。でも他でも使い道はある
 
 {% highlight cpp %}

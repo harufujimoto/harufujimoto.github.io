@@ -41,7 +41,7 @@ layout: home
       - [二部マッチング](https://harufujimoto.github.io/bipart_matching.html)
       - [一般マッチング](https://harufujimoto.github.io/general_matching.html)
       - [最小費用流](https://harufujimoto.github.io/mincostflow.html)
-    - [グラフに関する問題など](harufujimoto.github.io/graph_problems.html)
+    - [グラフに関する問題など](https://harufujimoto.github.io/graph_problems.html)
   - **データ構造**
     - Segment Tree
       - [一般化セグメント木](https://harufujimoto.github.io/general_segtree.html)

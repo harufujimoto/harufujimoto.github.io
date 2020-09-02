@@ -3,7 +3,7 @@ layout: post
 title: "template CPP"
 ---
 
-[edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/_posts/2020-09-02-cpptemplate.md)
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/2020-09-02-cpptemplate.md)
 
 Codeforces
 

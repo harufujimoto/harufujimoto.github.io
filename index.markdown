@@ -4,12 +4,16 @@
 
 layout: home
 ---
+
+  [edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/index.markdown)
+
   - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - [細かい関数などのメモ](https://harufujimoto.github.io/other_funcs.html)
   - **数学**
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)
     - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)
+    - TODO : 階乗・逆元テーブルO(N)前計算
     - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
     - [オイラーのトーシェント関数(Euler's totient function)](https://harufujimoto.github.io/totient.html))
     - [GCD,LCA,拡張ユークリッド](https://harufujimoto.github.io/gcd.html)

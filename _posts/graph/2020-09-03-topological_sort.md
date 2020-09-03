@@ -2,6 +2,7 @@
 layout: post
 title: "トポロジカルソート"
 ---
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/graph/2020-09-03-topological_sort.md)
 
 使い方: コンストラクタにグラフを突っ込む。突っ込んだらtopologicalSort()関数を呼び出すと、トポロジカル順の添字配列が出力される。（上位の頂点が先に来る)
 

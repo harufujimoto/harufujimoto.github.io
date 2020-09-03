@@ -5,7 +5,7 @@
 layout: home
 ---
 
-  [edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/index.markdown)
+  [edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/index.markdown)
   - [C++ template](https://harufujimoto.github.io/cpptemplate.html)
   - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - [細かい関数などのメモ](https://harufujimoto.github.io/other_funcs.html)
@@ -28,6 +28,7 @@ layout: home
       - [ダイクストラ法(Dijkstra's algotithm)](https://harufujimoto.github.io/graph/dijkstra.html) 
       - [ベルマンフォード法（Bellman-Ford algorithm）](https://harufujimoto.github.io/bellman_ford.html)
       - [ワーシャル・フロイド法(Warshall-Floyd algorithm)](https://harufujimoto.github.io/warshall_floyd.html)
+      - [トポロジカルソート(topological sorting)](https://harufujimoto.github.io/topological_sort.html)
       - [01-BFS](https://harufujimoto.github.io/01bfs.html)
       - [D'Espo-Page algorithm(CP)](https://harufujimoto.github.io/page_algo.html)
       - [最小全域木(MST)](https://harufujimoto.github.io/mst.html)

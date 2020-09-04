@@ -57,9 +57,10 @@ layout: home
     - Sqrt Tree
     - Deleting from a data structure in O(T(n)logN) (CP-algo)
   - **文字列**
-    - Z-algorithm
-    - Rolling Hash
-    - Suffix Array
+    - [Z-algorithm](https://harufujimoto.github.io/zalgo.html)
+    - [Rolling Hash](https://harufujimoto.github.io/rollinghash.html)
+    - [Suffix Array](https://harufujimoto.github.io/suffixarray.html)
     - Aho-Corasick algorithm (CPalgo)
-    - Manacher's Algorithm
-    - kmp algorithm
+    - [Manacher's Algorithm](https://harufujimoto.github.io/manacher.html)
+    - [kmp algorithm](https://harufujimoto.github.io/kmp.html)
+    - [Trie](https://harufujimoto.github.io/trie.html)

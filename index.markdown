@@ -9,6 +9,7 @@ layout: home
   - [C++ template](https://harufujimoto.github.io/cpptemplate.html)
   - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - [細かい関数などのメモ](https://harufujimoto.github.io/other_funcs.html)
+  - [vim](https://harufujimoto.github.io/vim.html)
   - **数学**
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)

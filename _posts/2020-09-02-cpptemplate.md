@@ -5,6 +5,23 @@ title: "template CPP"
 
 [edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/2020-09-02-cpptemplate.md)
 
+general
+{% highlight cpp %}
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define REP(i,n) for(int i = 0;i < n;i++)
+#define mp make_pair
+#define pb push_back
+#define eb emplace_back
+#define all(x) (x).begin(),(x).end()
+
+template<class T> bool chmax(T& a,T b){ if(a < b){ a = b; return true; }else return false; }
+template<class T> bool chmin(T& a,T b){ if(a > b){ a = b; return true; }else return false; }
+
+{% endhighlight %}
+
 Codeforces
 
 {% highlight cpp %}
@@ -14,7 +31,8 @@ void main2(){
 }
 int main(){
   cin.tie(0);
-  ios::sync_with_stdio(false);
+  ios::sync_with_stdio(false);// interactiveでは使わない！
+  //cout << fixed << setprecision(20);
   
   int tt;cin >> tt;
   while(tt--) main2();
@@ -32,7 +50,8 @@ void main2(){
 }
 int main(){
   cin.tie(0);
-  ios::sync_with_stdio(false);
+  ios::sync_with_stdio(false);// interactiveでは使わない！
+  //cout << fixed << setprecision(20);
   
   int tt;cin >> tt;
   for(int i=1;i<=tt;i++){

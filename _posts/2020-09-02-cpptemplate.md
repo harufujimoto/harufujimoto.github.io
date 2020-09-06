@@ -20,6 +20,8 @@ using namespace std;
 template<class T> bool chmax(T& a,T b){ if(a < b){ a = b; return true; }else return false; }
 template<class T> bool chmin(T& a,T b){ if(a > b){ a = b; return true; }else return false; }
 
+[Click me](http://www.google.com){: .btn}
+
 {% endhighlight %}
 
 Codeforces

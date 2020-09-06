@@ -8,7 +8,7 @@ title: "逆元O(N)列挙"
 {% highlight cpp %}
 vector<mint> list_mod_inverse(ll n = 1000010){
   vector<mint> inv(n+1,1);
-  for(int i=2;i<=n;i++)inv[i]=inv[MOD%i]*(MOD-MOD/i)%MOD;
+  for(int i=2;i<=n;i++)inv[i]=inv[MOD%i]*(mint)(MOD-MOD/i);
   return inv;
 }
 {% endhighlight %}

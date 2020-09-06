@@ -3,6 +3,8 @@ post: page
 title: "逆元O(N)列挙"
 ---
 
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/_posts/math/2020-09-06-listmodinv.md)
+
 {% highlight cpp %}
 vector<mint> list_mod_inverse(ll n){
   vector<mint> inv(n+1,1);

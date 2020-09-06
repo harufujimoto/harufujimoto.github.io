@@ -6,6 +6,11 @@ title: "template CPP"
 [edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/2020-09-02-cpptemplate.md)
 
 general
+
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
+
 {% highlight cpp %}
 
 #include<bits/stdc++.h>
@@ -20,7 +25,6 @@ using namespace std;
 template<class T> bool chmax(T& a,T b){ if(a < b){ a = b; return true; }else return false; }
 template<class T> bool chmin(T& a,T b){ if(a > b){ a = b; return true; }else return false; }
 
-[Click me](http://www.google.com){: .btn}
 
 {% endhighlight %}
 

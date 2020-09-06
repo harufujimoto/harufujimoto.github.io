@@ -15,7 +15,7 @@ layout: page
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)
     - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)
-    - TODO : 階乗・逆元テーブルO(N)前計算
+    - [逆元テーブルO(N)前計算](https://harufujimoto.github.io/listmodinv.html)
     - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
     - [オイラーのトーシェント関数(Euler's totient function)](https://harufujimoto.github.io/totient.html))
     - [GCD,LCA,拡張ユークリッド](https://harufujimoto.github.io/gcd.html)

@@ -12,6 +12,7 @@ layout: page
   - [反省](https://harufujimoto.github.io/hansei.html)
   - [vim](https://harufujimoto.github.io/vim.html)
   - **数学**
+    - [数学問題tips](https://harufujimoto.github.io/mathprob.html)
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)
     - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)

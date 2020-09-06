@@ -8,8 +8,9 @@ title: "template CPP"
 general
 
 Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+{% include button.html url="http://www.google.com" %}
 
 {% highlight cpp %}
 

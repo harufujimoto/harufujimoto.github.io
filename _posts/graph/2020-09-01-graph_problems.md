@@ -10,3 +10,4 @@ title: "グラフの問題まとめ"
 
 - グラフ
   - [(1 << k)個上の親を求める（ダブリング）](harufujimoto.github.io/doubling_parent.html)
+  - [連結成分の個数を数える](https://harufujimoto.github.io/countconnectives.html)

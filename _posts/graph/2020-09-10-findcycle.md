@@ -3,6 +3,8 @@ layout: page
 title: "グラフのサイクル検出"
 ---
 
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/_posts/graph/2020-09-10-findcycle.md)
+
 グラフを突っ込んでdfs(0,0)を実行すると、頂点0からスタートするdfsで、サイクルの検出が行われる。
 
 サイクルを一つ見つければよければその時点で終わりにすると楽。

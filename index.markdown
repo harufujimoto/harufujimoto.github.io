@@ -28,7 +28,7 @@ layout: page
   - **グラフ**
     - テンプレート
     - 一般グラフに対するアルゴリズム
-      - [ダイクストラ法(Dijkstra's algotithm)](https://harufujimoto.github.io/graph/dijkstra.html) 
+      - [ダイクストラ法(Dijkstra's algotithm)](https://harufujimoto.github.io/dijkstra.html) 
       - [ベルマンフォード法（Bellman-Ford algorithm）](https://harufujimoto.github.io/bellman_ford.html)
       - [ワーシャル・フロイド法(Warshall-Floyd algorithm)](https://harufujimoto.github.io/warshall_floyd.html)
       - [トポロジカルソート(topological sorting)](https://harufujimoto.github.io/topological_sort.html)

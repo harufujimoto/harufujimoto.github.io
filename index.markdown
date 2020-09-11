@@ -38,6 +38,7 @@ layout: page
       - [強連結成分分解(SCC)](https://harufujimoto.github.io/scc.html)
       - [2-SAT](https://harufujimoto.github.io/2sat.html)
       - [LCA(最近共通祖先)](https://harufujimoto.github.io/lca.html)
+      - [DFS木について](https://harufujimoto.github.io/dfstree.html)
     - 木(tree)
     - フロー(Flow)
       - [最大流](https://harufujimoto.github.io/maxflow.html)

@@ -39,6 +39,7 @@ layout: page
       - [2-SAT](https://harufujimoto.github.io/2sat.html)
       - [LCA(最近共通祖先)](https://harufujimoto.github.io/lca.html)
       - [DFS木について](https://harufujimoto.github.io/dfstree.html)
+      - [二部グラフ判定](https://harufujimoto.github.io/bipartite.html)
     - 木(tree)
     - フロー(Flow)
       - [最大流](https://harufujimoto.github.io/maxflow.html)

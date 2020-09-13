@@ -55,7 +55,7 @@ layout: page
       - [セグメント木(Range Sum Query)](https://harufujimoto.github.io/rsq.html)
       - [遅延セグメント木(Sum Query)](https://harufujimoto.github.io/lazy_rsq.html)
       - [遅延セグメント木(Min Query)](https://harufujimoto.github.io/lazy_rmq.html)
-    - Binary Indexed Tree
+    - [Binary Indexed Tree](https://harufujimoto.github.io/fenwick.html)
     - [UnionFind](https://harufujimoto.github.io/datastructure/unionfind.html)
     - 平方分割
     - Treap

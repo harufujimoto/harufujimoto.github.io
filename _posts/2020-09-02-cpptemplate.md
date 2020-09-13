@@ -12,7 +12,7 @@ general
 
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 #define REP(i,n) for(int i = 0;i < n;i++)
 #define mp make_pair
 #define pb push_back
@@ -21,6 +21,38 @@ using namespace std;
 
 template<class T> bool chmax(T& a,T b){ if(a < b){ a = b; return true; }else return false; }
 template<class T> bool chmin(T& a,T b){ if(a > b){ a = b; return true; }else return false; }
+ 
+using ll = long long;
+using ld = long double;
+using vi = vector<int>;
+using vl = vector<ll>;
+using Pi = pair<int,int>;
+using Pl = pair<ll,ll>;
+using vpi = vector<Pi>;
+using vpl = vector<Pl>;
+ 
+void lyn(){
+  cin.tie(0);
+  ios::sync_with_stdio(false);
+}
+ 
+#define debug(arr) cout << #arr << " = " << arr << '\n'
+#define debug2(a,b) cout << "[" << #a << "," << #b << "] = " << "[" << a << "," << b << "]" << '\n'
+template<class T> ostream &operator << (ostream& out, const vector<T>& arr) {
+	cout << "{"; for (int i = 0; i < arr.size(); i++)cout << (!i ? "" : ", ") << arr[i]; cout << "}";
+	return out;
+}
+template<class T> ostream &operator << (ostream& out, const vector<vector<T> >& arr) {
+	cout << "{\n"; for (auto& vec : arr)cout << "  " << vec << ",\n"; cout << "}";
+	return out;
+}
+template<class S,class T> ostream &operator << (ostream& out, const pair<S,T>& p){
+  cout << "{" << p.first << "," << p.second << "}" << '\n';
+  return out;
+}
+template<class T> istream &operator >> (istream& in, vector<T>& arr) {
+	for (auto& i : arr)cin >> i; return in;
+}
 
 
 {% endhighlight %}

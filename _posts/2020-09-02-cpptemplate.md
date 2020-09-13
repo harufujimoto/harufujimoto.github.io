@@ -57,6 +57,20 @@ template<class T> istream &operator >> (istream& in, vector<T>& arr) {
 
 {% endhighlight %}
 
+AtCoder
+
+{% highlight cpp %}
+
+int main(void){
+  cin.tie(0);
+  ios::sync_with_stdio(false);
+  //cout << fixed << setprecision(20);
+  
+  return 0;
+}
+
+{% endhighlight %}
+
 Codeforces
 
 {% highlight cpp %}

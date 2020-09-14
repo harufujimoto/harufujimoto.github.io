@@ -31,11 +31,6 @@ using Pl = pair<ll,ll>;
 using vpi = vector<Pi>;
 using vpl = vector<Pl>;
  
-void lyn(){
-  cin.tie(0);
-  ios::sync_with_stdio(false);
-}
- 
 #define debug(arr) cout << #arr << " = " << arr << '\n'
 #define debug2(a,b) cout << "[" << #a << "," << #b << "] = " << "[" << a << "," << b << "]" << '\n'
 template<class T> ostream &operator << (ostream& out, const vector<T>& arr) {
@@ -54,7 +49,7 @@ template<class T> istream &operator >> (istream& in, vector<T>& arr) {
 	for (auto& i : arr)cin >> i; return in;
 }
 
-
+/////////////////////////////////////////////////////////////////////////
 {% endhighlight %}
 
 AtCoder

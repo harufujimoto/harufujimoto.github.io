@@ -80,7 +80,7 @@ void main2(){
 }
 int main(){
   cin.tie(0);
-  ios::sync_with_stdio(false);// interactiveでは使わない！
+  ios::sync_with_stdio(false);
   //cout << fixed << setprecision(20);
   
   int tt;cin >> tt;
@@ -99,7 +99,7 @@ void main2(){
 }
 int main(){
   cin.tie(0);
-  ios::sync_with_stdio(false);// interactiveでは使わない！
+  ios::sync_with_stdio(false);
   //cout << fixed << setprecision(20);
   
   int tt;cin >> tt;

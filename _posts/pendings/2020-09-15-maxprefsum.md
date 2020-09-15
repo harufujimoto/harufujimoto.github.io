@@ -2,6 +2,7 @@
 layout: page
 title: "最大累積和(O(NlogN))"
 ---
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/blob/master/_posts/pendings/2020-09-15-maxprefsum.md)
 
 セグメント木を使って「左端を固定した時の最大累積和」を求める
 

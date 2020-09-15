@@ -11,6 +11,7 @@ layout: page
   - [細かい関数などのメモ](https://harufujimoto.github.io/other_funcs.html)
   - [反省](https://harufujimoto.github.io/hansei.html)
   - [vim](https://harufujimoto.github.io/vim.html)
+  - [考察途中のプログラム](https://harufujimoto.github.io/pendings.html)
   - **数学**
     - [数学問題tips](https://harufujimoto.github.io/mathprob.html)
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)

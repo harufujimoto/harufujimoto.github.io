@@ -9,7 +9,7 @@ layout: page
   - [C++ template](https://harufujimoto.github.io/cpptemplate.html)
   - [C++メモ](https://harufujimoto.github.io/cpptips.html)
   - [細かい関数などのメモ](https://harufujimoto.github.io/other_funcs.html)
-  - [反省](https://harufujimoto.github.io/hansei.html)
+  - [メモ](https://harufujimoto.github.io/memo.html)
   - [vim](https://harufujimoto.github.io/vim.html)
   - [考察途中のプログラム](https://harufujimoto.github.io/pendings.html)
   - **数学**

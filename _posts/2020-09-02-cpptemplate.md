@@ -6,7 +6,7 @@ title: "template CPP"
 [edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/2020-09-02-cpptemplate.md)
 
 compile option
-{% highlight %}
+{% highlight bash %}
 alias g='g++ main.cpp -std=c++17 -Wshadow -Wall -fsanitize=address -fsanitize=undefined -DLOCAL -D_GLIBCXX_DEBUG'
 {% endhighlight %}
 

@@ -10,6 +10,10 @@ compile option
 alias g='g++ main.cpp -std=c++17 -Wshadow -Wall -fsanitize=address -fsanitize=undefined -DLOCAL -D_GLIBCXX_DEBUG'
 {% endhighlight %}
 
+AtCoder,Codeforces : C++17対応
+Google,AOJ : C++14 (構造化束縛とか使っちゃダメ）
+そのほか：知らん
+
 general
 
 

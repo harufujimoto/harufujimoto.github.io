@@ -28,7 +28,7 @@ layout: page
       - [高速ゼータ変換](https://harufujimoto.github.io/fzt.html)
       - [高速アダマール変換](https://harufujimoto.github.io/wht.html)
   - **グラフ**
-    - テンプレート
+    - [テンプレート](https://harufujimoto.github.io/cplib/library/graph/template.cpp.html)
     - 一般グラフに対するアルゴリズム
       - [ダイクストラ法(Dijkstra's algotithm)](https://harufujimoto.github.io/graph/dijkstra.html) 
       - [ベルマンフォード法（Bellman-Ford algorithm）](https://harufujimoto.github.io/bellman_ford.html)

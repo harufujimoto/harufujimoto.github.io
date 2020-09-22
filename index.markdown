@@ -43,6 +43,7 @@ layout: page
       - [DFS木について](https://harufujimoto.github.io/dfstree.html)
       - [二部グラフ判定](https://harufujimoto.github.io/bipartite.html)
     - 木(tree)
+      - [木の直径](https://harufujimoto.github.io/diameter.html)
     - フロー(Flow)
       - [最大流](https://harufujimoto.github.io/maxflow.html)
       - [最小カット](https://harufujimoto.github.io/mincut.html)

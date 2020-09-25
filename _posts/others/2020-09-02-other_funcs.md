@@ -13,4 +13,5 @@ title: "細かい関数,テクニックなど"
   - [最長共通部分列](harufujimoto.github.io/lcs.html)
   - [累積和・二次元累積和](harufujimoto.github.io/prefsum.html)
   - [doubling](https://harufujimoto.github.io/doubling.html)
+  - [座標圧縮](https://harufujimoto.github.io/compress.html)
 

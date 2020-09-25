@@ -13,6 +13,7 @@ layout: page
   - [vim](https://harufujimoto.github.io/vim.html)
   - [generator](https://harufujimoto.github.io/gen.html)
   - [考察途中のプログラム](https://harufujimoto.github.io/pendings.html)
+  - [問題テクニック](https://harufujimoto.github.io/prob_tech.html)
   - **数学**
     - [数学問題tips](https://harufujimoto.github.io/mathprob.html)
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)

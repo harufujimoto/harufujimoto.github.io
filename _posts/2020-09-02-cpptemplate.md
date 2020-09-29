@@ -59,7 +59,9 @@ template<class S,class T> ostream &operator << (ostream& out, const pair<S,T>& p
 template<class T> istream &operator >> (istream& in, vector<T>& arr) {
 	for (auto& i : arr)cin >> i; return in;
 }
-
+template<class T> T read(){
+  T val;cin >> val;return val;
+}
 /////////////////////////////////////////////////////////////////////////
 {% endhighlight %}
 

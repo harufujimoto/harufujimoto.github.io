@@ -67,6 +67,7 @@ layout: page
     - Deleting from a data structure in O(T(n)logN) (CP-algo)
     - [Sparse Table](https://harufujimoto.github.io/sparsetable.html)
     - [最大長方形](https://harufujimoto.github.io/maxrect.html)
+    - [imos](https://harufujimoto.github.io/imos.html)
   - **文字列**
     - [Z-algorithm](https://harufujimoto.github.io/zalgo.html)
     - [Rolling Hash](https://harufujimoto.github.io/rollinghash.html)

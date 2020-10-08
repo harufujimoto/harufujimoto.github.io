@@ -24,6 +24,7 @@ layout: page
     - [オイラーのトーシェント関数(Euler's totient function)](https://harufujimoto.github.io/totient.html))
     - [GCD,LCA,拡張ユークリッド](https://harufujimoto.github.io/gcd.html)
     - 行列 
+    - [有理数クラス](https://harufujimoto.github.io/rational.html)
     - Transformation Series.
       - [高速フーリエ変換](https://harufujimoto.github.io/fft.html)
       - [高速ゼータ変換](https://harufujimoto.github.io/fzt.html)

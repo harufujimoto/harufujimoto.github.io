@@ -66,6 +66,7 @@ layout: page
     - Treap
     - Sqrt Tree
     - Deleting from a data structure in O(T(n)logN) (CP-algo)
+    - [累積和・2次元累積和](https://harufujimoto.github.io/prefixsum.html)
     - [Sparse Table](https://harufujimoto.github.io/sparsetable.html)
     - [最大長方形](https://harufujimoto.github.io/maxrect.html)
     - [imos](https://harufujimoto.github.io/imos.html)

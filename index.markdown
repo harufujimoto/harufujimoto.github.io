@@ -78,3 +78,5 @@ layout: page
     - [Manacher's Algorithm](https://harufujimoto.github.io/manacher.html)
     - [kmp algorithm](https://harufujimoto.github.io/kmp.html)
     - [Trie](https://harufujimoto.github.io/trie.html)
+  - **幾何**
+    - [点,円](https://harufujimoto.github.io/points.html)

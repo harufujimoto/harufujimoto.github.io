@@ -80,3 +80,4 @@ layout: page
     - [Trie](https://harufujimoto.github.io/trie.html)
   - **幾何**
     - [点,円](https://harufujimoto.github.io/points.html)
+    - [2円の交点](https://harufujimoto.github.io/crossing_points.html)

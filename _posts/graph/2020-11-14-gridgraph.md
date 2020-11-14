@@ -3,6 +3,8 @@ layout:page
 title: "generate grid graph"
 ---
 
+[edit](https://github.com/harufujimoto/harufujimoto.github.io/edit/master/_posts/graph/2020-11-14-gridgraph.md)
+
 depends on : graph template
 
 {% highlight cpp %}

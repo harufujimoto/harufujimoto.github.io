@@ -23,7 +23,7 @@ layout: page
     - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
     - [オイラーのトーシェント関数(Euler's totient function)](https://harufujimoto.github.io/totient.html))
     - [GCD,LCA,拡張ユークリッド](https://harufujimoto.github.io/gcd.html)
-    - 行列 
+    - [行列](https://harufujimoto.github.io/matrix.html)
     - [有理数クラス](https://harufujimoto.github.io/rational.html)
     - Transformation Series.
       - [高速フーリエ変換](https://harufujimoto.github.io/fft.html)

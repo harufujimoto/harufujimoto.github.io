@@ -19,6 +19,7 @@ layout: page
     - [Modint.cpp](https://harufujimoto.github.io/modint.html)
     - [二項係数(Mod)](https://harufujimoto.github.io/modcomb.html)
     - [二項係数(Pascal)](https://harufujimoto.github.io/pascals.html)
+    - [二項係数(Mod,Lucas)](https://harufujimoto.github.io/binom_lucas.html)
     - [逆元テーブルO(N)前計算](https://harufujimoto.github.io/listmodinv.html)
     - [エラトステネスの篩/素因数分解](https://harufujimoto.github.io/sieve.html)
     - [オイラーのトーシェント関数(Euler's totient function)](https://harufujimoto.github.io/totient.html))
